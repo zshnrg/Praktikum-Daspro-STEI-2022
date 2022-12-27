@@ -1,6 +1,9 @@
 # Praktikum IF1210 Dasar Pemrograman STEI 2022
 Repository ini berisi soal-soal dan pembahasan praktikum mata kuliah Daspro. File-file ini hanya boleh dijadikan referensi pembelajaran. Tidak semua file praktikum mendapatkan skor sempurna. Dilarang menduplikasi file untuk menjawab soal-soal praktikum.
 
+## About This Praktikum ❓❓
+Pada praktikum ini setiap mahasiswa mungkin untuk diberikan soal yang berbeda-beda. Oleh karena itu, pada direktori ini setiap soalnya akan dipisah ke dalam folder.
+
 ## How to Haskell? ⬇️
 Berikut ini beberapa langkah yang bisa kamu ikuti untuk menginstall Haskell yang saya rekomendasikan:
 1. Instal Haskell melalui https://www.haskell.org/ghcup/
