@@ -1,5 +1,5 @@
 # Praktikum IF1210 Dasar Pemrograman STEI 2022
-Repository ini berisi soal-soal dan pembahasan praktikum mata kuliah Daspro. File-file ini hanya boleh dijadikan referensi pembelajaran. Tidak semua file praktikum mendapatkan skor sempurna. Dilarang menduplikasi file untuk menjawab soal-soal praktikum.
+Repository ini berisi soal-soal dan pembahasan praktikum mata kuliah Daspro. File-file ini hanya boleh dijadikan referensi pembelajaran. Tidak semua file praktikum mendapatkan skor sempurna (tapi kayaknya selama responsi udah dibenerin jadi bener semua). Beberapa soal ga ada identitasnya karena lupa ngisi akibat ngejar waktu 😔. Dilarang menduplikasi file untuk menjawab soal-soal praktikum. Bijaklah dalam menggunakan referensi ini.
 
 ## About This Praktikum ❓❓
 Pada praktikum ini setiap mahasiswa mungkin untuk diberikan soal yang berbeda-beda. Oleh karena itu, pada direktori ini setiap soalnya akan dipisah ke dalam folder.
