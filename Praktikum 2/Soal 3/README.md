@@ -1,2 +1,2 @@
-# Soal Praktikum 1
-Pada soal nomor satu terdapat beberapa variasi soal `ListOfInteger`. Setiap variasinya akan diberi pembeda angka.
+# Soal Praktikum 3
+Pada soal nomor tiga terdapat beberapa variasi soal `ListOfCharacter`. Setiap variasinya akan diberi pembeda angka.
